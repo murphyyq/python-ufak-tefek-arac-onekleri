@@ -4,5 +4,5 @@ kolay bikaç tane python aracı
 https://instagram.com/murphyysec
 
 # kurulum
-'''Sudo apt-get install python'''
+```Sudo apt-get install python```
 Sudo pip install requests
