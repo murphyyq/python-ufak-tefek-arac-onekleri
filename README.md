@@ -5,4 +5,4 @@ https://instagram.com/murphyysec
 
 # kurulum
 ```Sudo apt-get install python```
-Sudo pip install requests
+```Sudo pip install requests```
